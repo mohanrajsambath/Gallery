@@ -29,7 +29,7 @@ public class GalleryActivity extends ActivityManagePermission implements Adapter
     GridView gridView_GalleryImage;
     GalleryActivity getActivityContext = null;
 
-    public static ArrayList<GalleryModel> all_gallery = new ArrayList<>();
+    public  ArrayList<GalleryModel> all_gallery = new ArrayList<>();
 
 
     PhotoAdapter adapter;
