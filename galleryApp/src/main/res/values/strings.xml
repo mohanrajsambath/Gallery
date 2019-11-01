@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GalleryImage</string>
+    <string name="str_folder_name">Folder Name</string>
+    <string name="str_imagecount">Image Count</string>
+</resources>
